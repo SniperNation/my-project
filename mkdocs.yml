@@ -1,0 +1,5 @@
+site_name: Developer's Guide
+site_url: https://thedeveloperguide.github.io
+nav:
+    - Home: index.md
+    - About: about.md
